@@ -1,2 +1,9 @@
-import magick from "imagemagick"
+
+var o={};
+
+o["a"]={
+    
+};
+
+
 
