@@ -1,0 +1,2 @@
+import magick from "imagemagick"
+
